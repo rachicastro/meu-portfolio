@@ -106,7 +106,7 @@ Soon, this project will be available at:
 
 Want to chat? Find me here:
 
-[GitHub](https://github.com/YOUR-USERNAME)
+[GitHub](https://github.com/RachiSoftware)
 
 ---
 
