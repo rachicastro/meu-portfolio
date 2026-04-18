@@ -31,7 +31,7 @@ Este site não é só código. Ele foi pensado para acolher quem visita:
 
 Em breve, este projeto estará disponível em:
 
-`https://RachiSoftware.github.io/meu-portfolio`
+`https://rachicastro.github.io/meu-portfolio`
 
 *(Substitua SEU-USUARIO pelo seu nome do GitHub)*
 
@@ -53,7 +53,7 @@ Em breve, este projeto estará disponível em:
 
 Quer trocar uma ideia? Me encontre aqui:
 
-[GitHub](https://github.com/RachiSoftware)
+[GitHub](https://github.com/rachicastro)
 
 ---
 
@@ -84,7 +84,7 @@ This website is more than just code. It was designed to welcome visitors:
 
 Soon, this project will be available at:
 
-`https://YOUR-RachiSoftware.github.io/my-portfolio`
+`https://YOUR-rachicastro.github.io/my-portfolio`
 
 *(Replace YOUR-USERNAME with your GitHub username)*
 
@@ -106,7 +106,7 @@ Soon, this project will be available at:
 
 Want to chat? Find me here:
 
-[GitHub](https://github.com/RachiSoftware)
+[GitHub](https://github.com/rachicastro)
 
 ---
 
